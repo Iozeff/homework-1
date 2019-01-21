@@ -2,6 +2,6 @@
   "number":11,
   "string":"Exemple :)",
   "boolean":true,
-  "object":"human{ age:'42', name:'Ivan'}",
+  "object": { age:'42', name:'Ivan'},
   "null":null
 }
